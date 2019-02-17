@@ -162,3 +162,7 @@ A curated list of awesome deep learning based papers on text detection and recog
     * [Classic Text Detectors](https://www.slideshare.net/anyline_io/text-detection-strategies)
 * Survey Paper
     * [Scene text detection and recognition: recent advances and future trends](https://www.researchgate.net/profile/Xiang_Bai4/publication/286945604_Scene_text_detection_and_recognition_recent_advances_and_future_trends/links/57f720f408ae886b8981d364/Scene-text-detection-and-recognition-recent-advances-and-future-trends.pdf)
+
+## Acknowledgment
+* This work is done by OCR team in Clova AI powered by NAVER-LINE. NAVER-LINE is an Asian top internet company and develops Clova, a cloud-based AI-assistant platform.
+* This repository is scheduled to be updated regularly in accordance with schedules of major AI conferences.
