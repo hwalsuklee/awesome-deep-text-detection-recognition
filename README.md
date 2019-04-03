@@ -85,7 +85,7 @@ A curated list of awesome deep learning based papers on text detection and recog
 '17-IJCAI	| 17/08/19	| [Learning to Read Irregular Text with Attention Mechanisms](https://faculty.ist.psu.edu/zzhou/paper/IJCAI17-IrregularText.pdf) |
 '17-arXiv	| 17/09/06	| [Scene Text Recognition with Sliding Convolutional Character Models](https://arxiv.org/pdf/1709.01727.pdf) |	0.765	| 0.816	| 0.845 |	0.852 |
 '17-ICCV	| 17/09/07	| [Focusing Attention: Towards Accurate Text Recognition in Natural Images](https://arxiv.org/pdf/1709.02054.pdf) |	0.859 | 0.874 | 0.942 |	0.933 |
-'18-CVPR	| 17/11/12	| [AON: Towards Arbitrarily-Oriented Text Recognition](https://arxiv.org/pdf/1711.04226.pdf) |	0.828	|0.87	| 0.915	|
+'18-CVPR	| 17/11/12	| [AON: Towards Arbitrarily-Oriented Text Recognition](https://arxiv.org/pdf/1711.04226.pdf) |	0.828	|0.87	| 0.915	||[TF](https://github.com/huizhang0110/AON)
 '17-NIPS	| 17/12/04	| [Gated Recurrent Convolution Neural Network for OCR](https://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf)	| 0.815	| 0.808 | 0.978 | | [`*TORCH(M)`](https://github.com/Jianfeng1991/GRCNN-for-OCR)
 '18-AAAI	| 18/01/04	| [Char-Net: A Character-Aware Neural Network for Distorted Scene Text Recognition](http://www.visionlab.cs.hku.hk/publications/wliu_aaai18.pdf) |	0.844	| 0.836	| 0.915 |	0.908 |
 '18-AAAI	| 18/01/04	| [SqueezedText: A Real-time Scene Text Recognition by Binary Convolutional Encoder-decoder Network](https://pdfs.semanticscholar.org/0e59/f7d7e9c9380b425a94038c7a2500b2f6063a.pdf) | |	0.87	| 0.931 |	0.929 |
