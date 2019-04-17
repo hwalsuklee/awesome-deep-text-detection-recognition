@@ -2,8 +2,8 @@
 A curated list of awesome deep learning based papers on text detection and recognition.
 
 <p align='center'>
-<img src = '/overall_histogram.png' height="450px">
-<img src = '/overall_pi_chart.png' height="300px">  
+<img src = '/overall_histogram.png' height="300px">
+<img src = '/overall_pi_chart.png' height="450px">  
 </p>
 
 ## Text Detection
@@ -57,7 +57,12 @@ A curated list of awesome deep learning based papers on text detection and recog
 '18-ECCV	| 18/07/06	| [Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes](https://arxiv.org/pdf/1807.02242.pdf) | 0.917	| 0.86 |
 '18-ECCV	| 18/07/10	| [Accurate Scene Text Detection through Border Semantics Awareness and Bootstrapping](https://arxiv.org/pdf/1807.03547.pdf) |	0.892	|
 '19-AAAI    | 18/11/21  | [Scene Text Detection with Supervised Pyramid Context Network](https://arxiv.org/pdf/1811.08605.pdf)  | 0.921 | 0.872 | 
-
+'19-CVPR | 19/03/21 | [Towards Robust Curve Text Detection with Conditional Spatial Expansion](https://arxiv.org/pdf/1903.08836.pdf) | | | |  
+'19-CVPR | 19/03/28 | [Shape Robust Text Detection with Progressive Scale Expansion Network](https://arxiv.org/pdf/1903.12473.pdf) | | 0.857 | |  
+'19-CVPR | 19/04/03 | [Character Region Awareness for Text Detection](https://arxiv.org/pdf/1904.01941.pdf) | 0.952 | 0.869 | |  
+'19-CVPR | 19/04/13 | [Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes Screen reader support enabled](https://arxiv.org/pdf/1904.06535.pdf) | | 0.877 | |  
+'19-CVPR | 19/06/16 | [Learning Shape-Aware Embedding for Scene Text Detection](https://arxiv.org/pdf/1904.06535.pdf) | | 0.877 | |  
+'19-CVPR | 19/06/16 | Arbitrary Shape Scene Text Detection with Adaptive Text Region Representation | | | |  
 <p align='center'>
 <img src = '/detection_ic13_results.png' height = '550px'>
 <img src = '/detection_ic15_results.png' height = '550px'>
@@ -93,6 +98,9 @@ A curated list of awesome deep learning based papers on text detection and recog
 '18-TPAMI	| 18/06/25	| [ASTER: An Attentional Scene Text Recognizer with Flexible Rectification](http://122.205.5.5:8071/UpLoadFiles/Papers/ASTER_PAMI18.pdf) |	0.936	| 0.934 |	0.945	| 0.918	| [`*TF(M)`](https://github.com/bgshih/aster)
 '18-ECCV	| 18/09/08	| [Synthetically Supervised Feature Learning for Scene Text Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Liu_Synthetically_Supervised_Feature_ECCV_2018_paper.pdf) |	0.871	| 0.894	| 	0.947	| 0.94 |
 '19-AAAI    | 18/09/18  | [Scene Text Recognition from Two-Dimensional Perspective](https://arxiv.org/pdf/1809.06508.pdf)   | 0.821 | 0.92 | | 0.914 |
+'19-CVPR    | 18/12/14  | [ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification](https://arxiv.org/pdf/1812.05824.pdf)   | 0.902 | 0.933 |  | 0.913 | [PRJ](https://github.com/fnzhan/ESIR)  
+'19-PR    | 19/01/10  | [MORAN: A Multi-Object Rectified Attention Network for Scene Text Recognition](https://arxiv.org/pdf/1901.03003.pdf)   | 0.883 | 0.912 | 0.950 | 0.924 | [`*PYTORCH(M)`](https://github.com/Canjie-Luo/MORAN_v2)  
+
 <p align='center'>
 <img src = '/recognition_ic13_results.png' height = '550px'>
 <img src = '/recognition_iiit5k_results.png' height = '550px'>
@@ -143,7 +151,13 @@ A curated list of awesome deep learning based papers on text detection and recog
 '18-CVPR	| 18/06/19	|	[Document Enhancement using Visibility Detection](http://webee.technion.ac.il/~ayellet/Ps/18-KKT.pdf) |	Document Enhancement | [`PRJ`](http://cgm.technion.ac.il/Computer-Graphics-Multimedia/Software/VisibilityDetection/)
 '18-IJCAI	| 18/06/22	|	[Multi-Task Handwritten Document Layout Analysis](https://arxiv.org/pdf/1806.08852.pdf) |	Document Layout
 '18-ECCV	| 18/07/09	|	[Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes](https://arxiv.org/pdf/1807.03021.pdf) |	Dataset | [`PRJ`](https://github.com/fnzhan/Verisimilar-Image-Synthesis-for-Accurate-Detection-and-Recognition-of-Texts-in-Scenes)
-'19-AAAI	| 18/12/03  |	[EnsNet: Ensconce Text in the Wild](https://arxiv.org/pdf/1812.00723.pdf) | Text Removal |	[`DB`](https://github.com/HCIILAB/Scene-Text-Removal)
+'19-AAAI	| 18/12/03  |	[EnsNet: Ensconce Text in the Wild](https://arxiv.org/pdf/1812.00723.pdf) | Text Removal |	[`DB`](https://github.com/HCIILAB/Scene-Text-Removal)  
+'19-CVPR	| 18/12/14  |	[Spatial Fusion GAN for Image Synthesis](https://arxiv.org/pdf/1812.05840.pdf) | Dataset |	[`DB`](https://github.com/fnzhan/SF-GAN)  
+'19-AAAI	| 19/01/27  |	[Hierarchical Encoder with Auxiliary Supervision for Table-to-text Generation: Learning Better Representation for Tables](https://www.aaai.org/Papers/AAAI/2019/AAAI-LiuT.3205.pdf) | TableToText |	  
+'19-AAAI	| 19/01/27  |	[A Radical-aware Attention-based Model for Chinese Text Classification](https://www.aaai.org/Papers/AAAI/2019/AAAI-TaoH.5441.pdf) | Chinese Character Classification |	  
+'19-AAAI	| 19/01/27  |	[Hierarchical Encoder with Auxiliary Supervision for Table-to-text Generation: Learning Better Representation for Tables](https://www.aaai.org/Papers/AAAI/2019/AAAI-LiuT.3205.pdf) | TableToText |	  
+'19-CVPR	| 19/03/27  |	[Tightness-aware Evaluation Protocol for Scene Text Detection](https://arxiv.org/pdf/1904.00813.pdf) | Evaluation |	[`CODE`](https://github.com/Yuliang-Liu/TIoU-metric)  
+'19-CVPR	| 19/06/16  |	[DynTypo: Example-based Dynamic Text Effects Transfer](https://menyifang.github.io/projects/DynTypo/DynTypo_files/Paper_DynTypo_CVPR19.pdf) | Text Effects |	[`PRJ`](https://menyifang.github.io/projects/DynTypo/DynTypo.html) <br> [`VIDEO`](https://youtu.be/FkFQ6bV1s-o) 
 
 ## Other lists
 * OCR Paper Curation
