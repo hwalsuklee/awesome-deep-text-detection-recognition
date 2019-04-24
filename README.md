@@ -61,7 +61,7 @@ A curated list of awesome deep learning based papers on text detection and recog
 '19-CVPR | 19/03/28 | [Shape Robust Text Detection with Progressive Scale Expansion Network](https://arxiv.org/pdf/1903.12473.pdf) | | 0.857 | |  
 '19-CVPR | 19/04/03 | [Character Region Awareness for Text Detection](https://arxiv.org/pdf/1904.01941.pdf) | 0.952 | 0.869 | |  
 '19-CVPR | 19/04/13 | [Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes Screen reader support enabled](https://arxiv.org/pdf/1904.06535.pdf) | | 0.877 | |  
-'19-CVPR | 19/06/16 | [Learning Shape-Aware Embedding for Scene Text Detection](https://arxiv.org/pdf/1904.06535.pdf) | | 0.877 | |  
+'19-CVPR | 19/06/16 | [Learning Shape-Aware Embedding for Scene Text Detection](http://jiaya.me/papers/textdetection_cvpr19.pdf) | | 0.877 | |  
 '19-CVPR | 19/06/16 | Arbitrary Shape Scene Text Detection with Adaptive Text Region Representation | | | |  
 <p align='center'>
 <img src = '/detection_ic13_results.png' height = '550px'>
