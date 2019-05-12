@@ -59,7 +59,7 @@ A curated list of awesome deep learning based papers on text detection and recog
 '19-AAAI    | 18/11/21  | [Scene Text Detection with Supervised Pyramid Context Network](https://arxiv.org/pdf/1811.08605.pdf)  | 0.921 | 0.872 | 
 '19-TIP | 18/12/04 | [TextField: Learning A Deep Direction Field for Irregular Scene Text Detection](https://arxiv.org/pdf/1812.01393.pdf) | | 0.824 | [`*CAFFE(M)`](https://github.com/YukangWang/TextField)
 '19-CVPR | 19/03/21 | [Towards Robust Curve Text Detection with Conditional Spatial Expansion](https://arxiv.org/pdf/1903.08836.pdf) | | | |  
-'19-CVPR | 19/03/28 | [Shape Robust Text Detection with Progressive Scale Expansion Network](https://arxiv.org/pdf/1903.12473.pdf) | | 0.857 | |  
+'19-CVPR | 19/03/28 | [Shape Robust Text Detection with Progressive Scale Expansion Network](https://arxiv.org/pdf/1903.12473.pdf) | | 0.857 | | [`TF(M)`](https://github.com/liuheng92/tensorflow_PSENet)
 '19-CVPR | 19/04/03 | [Character Region Awareness for Text Detection](https://arxiv.org/pdf/1904.01941.pdf) | 0.952 | 0.869 | |  
 '19-CVPR | 19/04/13 | [Look More Than Once: An Accurate Detector for Text of Arbitrary Shapes Screen reader support enabled](https://arxiv.org/pdf/1904.06535.pdf) | | 0.877 | |  
 '19-CVPR | 19/06/16 | [Learning Shape-Aware Embedding for Scene Text Detection](http://jiaya.me/papers/textdetection_cvpr19.pdf) | | 0.877 | |  
