@@ -162,6 +162,8 @@ A curated list of awesome deep learning based papers on text detection and recog
 '19-AAAI	| 19/01/27  |	[Hierarchical Encoder with Auxiliary Supervision for Table-to-text Generation: Learning Better Representation for Tables](https://www.aaai.org/Papers/AAAI/2019/AAAI-LiuT.3205.pdf) | TableToText |	  
 '19-CVPR	| 19/03/27  |	[Tightness-aware Evaluation Protocol for Scene Text Detection](https://arxiv.org/pdf/1904.00813.pdf) | Evaluation |	[`CODE`](https://github.com/Yuliang-Liu/TIoU-metric)  
 '19-CVPR	| 19/06/16  |	[DynTypo: Example-based Dynamic Text Effects Transfer](https://menyifang.github.io/projects/DynTypo/DynTypo_files/Paper_DynTypo_CVPR19.pdf) | Text Effects |	[`PRJ`](https://menyifang.github.io/projects/DynTypo/DynTypo.html) <br> [`VIDEO`](https://youtu.be/FkFQ6bV1s-o) 
+'19-CVPR | 19/06/16 | [Typography with Decor: Intelligent Text Style Transfer](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Typography_With_Decor_Intelligent_Text_Style_Transfer_CVPR_2019_paper.pdf) | Text Effects | [`*PYTORCH(M)`](https://daooshee.github.io/Typography2019/) 
+'19-CVPR | 19/06/16 | [An Alternative Deep Feature Approach to Line Level Keyword Spotting](http://openaccess.thecvf.com/content_CVPR_2019/papers/Retsinas_An_Alternative_Deep_Feature_Approach_to_Line_Level_Keyword_Spotting_CVPR_2019_paper.pdf) | Kyeword Spotting
 
 ## Other lists
 * OCR Paper Curation
