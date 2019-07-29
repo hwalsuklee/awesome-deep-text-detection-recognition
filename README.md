@@ -2,8 +2,8 @@
 A curated list of awesome deep learning based papers on text detection and recognition.
 
 <p align='center'>
-<img src = '/overall_pi_chart.png' height="150px">  
-<img src = '/overall_histogram.png' height="400px">
+<img src = '/overall_pi_chart.png' height="300px">  
+<img src = '/overall_histogram.png' height="450px">
 </p>
 
 ## Text Detection
