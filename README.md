@@ -102,7 +102,7 @@ A curated list of awesome deep learning based papers on text detection and recog
 '19-CVPR    | 18/12/14  | [ESIR: End-to-end Scene Text Recognition via Iterative Image Rectification](https://arxiv.org/pdf/1812.05824.pdf)   | 0.902 | 0.933 |  | 0.913 | [PRJ](https://github.com/fnzhan/ESIR)  
 '19-PR    | 19/01/10  | [MORAN: A Multi-Object Rectified Attention Network for Scene Text Recognition](https://arxiv.org/pdf/1901.03003.pdf)   | 0.883 | 0.912 | 0.950 | 0.924 | [`*PYTORCH(M)`](https://github.com/Canjie-Luo/MORAN_v2)  
 '19-ICCV | 19/04/03 | [What is wrong with scene text recognition model comparisons? dataset and model analysis](https://arxiv.org/pdf/1904.01906.pdf) | 0.875 | | 0.949 | 0.936 | [`*PYTORCH(M)`](https://github.com/clovaai/deep-text-recognition-benchmark) <br> [`BLOG_KR`](https://data-newbie.tistory.com/156)
-'19-CVPR | 19/04/18 | [Aggregation Cross-Entropy for Sequence Recognition](https://arxiv.org/pdf/1904.08364.pdf) | 0.826 | 0.823 | 0.921 | 0.897 | | 
+'19-CVPR | 19/04/18 | [Aggregation Cross-Entropy for Sequence Recognition](https://arxiv.org/pdf/1904.08364.pdf) | 0.826 | 0.823 | 0.921 | 0.897 | [`*PYTORCH`](https://github.com/summerlvsong/Aggregation-Cross-Entropy) | 
 '19-CVPR | 19/06/16 | [Sequence-to-Sequence Domain Adaptation Network for Robust Text Image Recognition](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Sequence-To-Sequence_Domain_Adaptation_Network_for_Robust_Text_Image_Recognition_CVPR_2019_paper.pdf) | 0.845 | 0.838 | 0.921 | 0.918 | |
 
 <p align='center'>
