@@ -177,7 +177,7 @@ A curated list of awesome deep learning based papers on text detection and recog
 
 ## Tutorial Materials
 * Lecture slides
-    * [Irregular Text Detection and Recognition (CBDAR2019)](http://122.205.5.5:8071/~xbai/Talk_slice/IrregularText-CBDAR2019.pptx)
+    * [Irregular Text Detection and Recognition (CBDAR2019 keynote)](http://122.205.5.5:8071/~xbai/Talk_slice/IrregularText-CBDAR2019.pptx)
     * [Deep Neural Networks for Scene Text Reading (IC17 Keynote)](http://u-pat.org/ICDAR2017/keynotes/ICDAR2017_Keynote_Prof_Bai.pdf)
     * [Oriented Scene Text Detection Revisited (VALSE17 Invited Talk)](http://cloud.eic.hust.edu.cn:8071/~xbai/Talk_slice/Oriented-Scene-Text-Detection-Revisited_VALSE2017.pdf)
     * [Scene Text Detection and Recognition (Joint course of Megvii Inc. & Peking Univ.)](https://zsc.github.io/megvii-pku-dl-course/slides/Lecture7(Text%20Detection%20and%20Recognition_20171031).pdf)
