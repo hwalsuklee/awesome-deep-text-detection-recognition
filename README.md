@@ -188,6 +188,9 @@ A curated list of awesome deep learning based papers on text detection and recog
 
 ## Other lists
 * OCR Paper Curation
+    * [HCIILAB-Detection](https://github.com/HCIILAB/Scene-Text-Detection)
+    * [HCIILAB-Recognition](https://github.com/HCIILAB/Scene-Text-Recognition)
+    * [HCIILAB-End2End](https://github.com/HCIILAB/Scene-Text-End2end)
     * [whitelok](https://github.com/whitelok/image-text-localization-recognition)
     * [tangzhenyu](https://github.com/tangzhenyu/Scene-Text-Understanding)
     * [wanghaisheng](https://github.com/wanghaisheng/awesome-ocr)
