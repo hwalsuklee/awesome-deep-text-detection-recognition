@@ -67,7 +67,7 @@ A curated list of awesome deep learning based papers on text detection and recog
 '19-CVPR | 19/06/16 | [Arbitrary Shape Scene Text Detection with Adaptive Text Region Representation](https://arxiv.org/pdf/1905.05980.pdf) | 0.917 | 0.876 | |  
 '19-ICCV | 19/08/16 | [Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network](https://arxiv.org/abs/1908.05900) | | 0.829 | |  
 '19-ICCV | 19/09/02 | [Geometry Normalization Networks for Accurate Scene Text Detection](https://arxiv.org/abs/1909.00794) | | 0.8852 | |  
-'19-AAAI | 19/11/20 | [Real-time Scene Text Detection with Differentiable Binarization](https://arxiv.org/abs/1911.08947) | | 0.847 | |  
+'19-AAAI | 19/11/20 | [Real-time Scene Text Detection with Differentiable Binarization](https://arxiv.org/abs/1911.08947) | | 0.847 | [`PYTORCH(M)`](https://github.com/MhLiao/DB) |  
 <p align='center'>
 <img src = '/detection_ic13_results.png' height = '550px'>
 <img src = '/detection_ic15_results.png' height = '550px'>
